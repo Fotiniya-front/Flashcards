@@ -10,7 +10,7 @@ h1 {
 }
 
 .all-cards {
-    background-image: url("../flag.jpg");
+    background-image: url("task/flag.jpg");
     background-size: contain;
     background-clip: border-box;
     text-align: center;
